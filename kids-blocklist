@@ -10,9 +10,5 @@
 /beautyever.ru/
 /appsflyer.com/
 /vkvd/
-/vk7*/
-/sun7*/
-/vk9*/
-/sun9*/
-/vk34*/
-/sun34*/
+/vk[0-9]{1,2}/
+/sun[0-9]{1,2}/
